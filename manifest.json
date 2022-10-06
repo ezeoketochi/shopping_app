@@ -1,0 +1,32 @@
+{
+  "name": "Shopping App",
+  "short_name": "tEzo SA",
+  "icons": [
+    {
+      "src": "./assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpsose": "any maskable"
+    },
+
+    {
+      "src": "./assets/icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpsose": "any maskable"
+    },
+
+    {
+      "src": "./assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpsose": "any maskable"
+    }
+  ],
+
+  "theme_color": "#fffff",
+  "background_color": "#ffffff",
+  "start_url": "/shopping_app/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
